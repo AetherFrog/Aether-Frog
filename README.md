@@ -23,3 +23,55 @@ Whale-Friendly: 50% Liquidity, 25% Team (vested), 15% Airdrops, 10% Rewards. Own
 
 
 Web3-Ready: Connect with Phantom/MetaMask, join airdrops, and track live buys.
+📍 Website: Live at aetherfrog.github.io (or aetherfrog.xyz if purchased).
+
+Features
+
+
+
+
+
+Wallet-Connect: Seamlessly connect Phantom (Solana) or MetaMask (ETH/BSC).
+
+
+
+Live Ticker: Real-time buy updates to fuel FOMO.
+
+
+
+Airdrop Portal: Submit your wallet for exclusive $AETHFROG drops.
+
+
+
+Tokenomics: Transparent 1B supply with burns for scarcity.
+
+
+
+Whitepaper: Download our vision at Google Drive Link.
+
+Get Involved
+
+
+
+
+
+🐸 Join the Hype: Follow us on X @AetherFrogToken and Telegram @AetherFrogOfficial.
+
+
+
+🚀 First 100 Wallets: Register for a 100 $AETHFROG airdrop!
+
+
+
+💰 Whales Welcome: Buy big, get exclusive bonuses.
+
+Contribute
+
+This repo hosts the $AETHFROG website. Clone, fork, or submit PRs to enhance the cosmic leap!
+
+Contract: 0xTBD (Solana SPL, verified on Solscan).
+Status: Ownership renounced, rug-pull proof.
+
+Leap into the Aether with $AETHFROG – To the Moon! 🌑
+
+#MemeCoin2025 #AetherFrog #Solana
